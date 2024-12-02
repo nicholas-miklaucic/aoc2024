@@ -1,0 +1,4 @@
+# AOC files
+*.txt
+
+!.gitignore
