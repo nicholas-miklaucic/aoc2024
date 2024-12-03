@@ -4,6 +4,6 @@
 [<EntryPoint>]
 let main args =
     do // printfn "%d" << Day1.Day1.doPart2 <| readLines "input/day1.txt"
-        printfn "%d" << Day2.Day2.part2 <| readLines "input/day2.txt"
+        printfn "%d" << Day3.Day3.part2 <| System.IO.File.ReadAllText("input/day3.txt")
 
     0
