@@ -6,7 +6,8 @@
       "version": "6.3.16",
       "commands": [
         "fantomas"
-      ]
+      ],
+      "rollForward": false
     }
   }
 }

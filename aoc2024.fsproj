@@ -1,9 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="sols/day6.fs" />
     <Compile Include="sols/day5.fs" />
     <Compile Include="sols/day4.fs" />
     <Compile Include="sols/day3.fs" />
