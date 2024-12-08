@@ -4,11 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="day5.fs" />
-    <Compile Include="day4.fs" />
-    <Compile Include="day3.fs" />
-    <Compile Include="day2.fs" />
-    <Compile Include="day1.fs" />
+    <Compile Include="sols/day5.fs" />
+    <Compile Include="sols/day4.fs" />
+    <Compile Include="sols/day3.fs" />
+    <Compile Include="sols/day2.fs" />
+    <Compile Include="sols/day1.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
