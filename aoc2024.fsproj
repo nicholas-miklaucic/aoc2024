@@ -4,6 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="sols\day9.fs" />
     <Compile Include="sols\day8.fs" />
     <Compile Include="sols\day7.fs" />
     <Compile Include="sols/day6.fs" />
